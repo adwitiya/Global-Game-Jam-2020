@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Temp
+/Library
+/build
+/Assets/BayatGames/Free Platform Game Assets
+/Assets/Videos
